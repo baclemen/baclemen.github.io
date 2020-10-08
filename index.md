@@ -11,7 +11,7 @@ I like doing stuff on the internet. Alongside Programming I like designing and w
 ## Articles
 
 - [Reisen ist toll, zu Hause bleiben auch](https://vis.ethz.ch/de/visionen/archive/issue/visionen-2018-5/#page=12)
-- [Pokémon-Rätselfür Fortgeschrittene](https://vis.ethz.ch/de/visionen/archive/issue/visionen-2019-2/#page=35) und [Lösung](https://vis.ethz.ch/de/visionen/archive/issue/visionen-2019-3/#page=26)
+- [Pokémon-Rätsel für Fortgeschrittene](https://vis.ethz.ch/de/visionen/archive/issue/visionen-2019-2/#page=35) und [Lösung](https://vis.ethz.ch/de/visionen/archive/issue/visionen-2019-3/#page=26)
 - [How I broke the VIS Mailalias](https://vis.ethz.ch/de/visionen/archive/issue/visionen-2019-5/#page=64)
 - [Road to Coffeemachine 3.0](https://vis.ethz.ch/de/visionen/archive/issue/visionen-2020-1/#page=21)
 
